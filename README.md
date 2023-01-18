@@ -1,5 +1,5 @@
 # ifriend
-##Gestor para el juego del amigo invisible
+## Gestor para el juego del amigo invisible
 
 Este programa no usa framework pero usa modelo vista controlador con las siguientes librerías:
 
